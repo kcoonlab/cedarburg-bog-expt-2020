@@ -1,3 +1,7 @@
+Files for:
+
+Arellano, A.A., Young, E.B., Coon, K.L. (2024). An inquiline mosquito modulates microbial	diversity and function in an aquatic microecosystem. Molecular Ecology.
+
 Files in this repository:
 
 Cleaned Pitcher Field Code.Rmd --> executable/knitabble R markdown file to complete all analyses described in the associated manuscript, this file relies on several files also in this repo
